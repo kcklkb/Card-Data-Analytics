@@ -76,13 +76,11 @@
 
 ## 트러블 슈팅
 
-1. **ubuntu내 ElasticSearch 설치 시 싱글 노드 사용 문제**  
-   - 문제: 데이터를 Elasticsearch에 삽입할 때 발생한 오류 해결 과정
-   - 해결 방법: 로그 분석 및 설정 변경을 통한 해결
+- **ElasticSearch는 단일 노드 모드 미설정 시 웹 접속 불가 문제**  
+   - 문제: 클러스터 모드에서 발생하는 discovery 프로세스로 인한 웹 접속 불가
+   - 해결 방법: discovery.type: single-node 설정을 통한 ElasticSearch 단일 노드 실행
+![image](https://github.com/user-attachments/assets/3dd4021a-f469-4ac9-9c62-3bc77516652e)
 
-2. **ubuntu내 Kibana 설치 시 yml파일 내 네트워크 설정 문제**  
-   - 문제: Kibana에서 데이터가 제대로 시각화되지 않은 문제
-   - 해결 방법: 필터와 쿼리 수정, 시각화 설정 조정
 
 ## 프로젝트 고찰 및 회고
 
