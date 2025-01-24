@@ -105,6 +105,7 @@
 - **ElasticSearch는 단일 노드 모드 미설정 시 웹 접속 불가 문제**  
    - ⚠️문제: 클러스터 모드에서 발생하는 discovery 프로세스로 인한 웹 접속 불가
    - ✅ 해결 방법: discovery.type: single-node 설정을 통한 ElasticSearch 단일 노드 실행
+
 ![image](https://github.com/user-attachments/assets/3dd4021a-f469-4ac9-9c62-3bc77516652e)
 
 <br>
