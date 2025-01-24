@@ -6,7 +6,7 @@
 ## 목차
 1. [프로젝트 소개](#프로젝트-소개)
 2. [개발환경](#개발환경)
-3. [아키텍처 구조](#아키텍처-구조)
+3. [데이터 FLOW](#데이터-FLOW)
 4. [개발환경 구성](#개발환경-구성)
 5. [데이터 시각화](#데이터-시각화)
 6. [인사이트 도출](#인사이트-도출)
@@ -24,7 +24,10 @@
 ![VirtualBox](https://img.shields.io/badge/virtualbox-2F61B4?style=for-the-badge&logo=virtualbox&logoColor=blue) ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=blue) ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=ElasticSearch&logoColor=black) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
 
-## 3. 아키텍처 구조
+## 3. 데이터 FLOW
+
+![_- visual selection](https://github.com/user-attachments/assets/26439785-8ac8-4ba1-bf65-e578c52b2b91)
+
 
 ## 4. 개발 환경 구성
 
