@@ -102,7 +102,7 @@
 
 ## 7. 🛠️트러블 슈팅
 
-- **ElasticSearch는 단일 노드 모드 미설정 시 웹 접속 불가 문제**  
+- **ElasticSearch 단일 노드 모드 미설정 시 웹 접속 불가 문제**  
    - ⚠️문제: 클러스터 모드에서 발생하는 discovery 프로세스로 인한 웹 접속 불가
    - ✅ 해결 방법: discovery.type: single-node 설정을 통한 ElasticSearch 단일 노드 실행
 
