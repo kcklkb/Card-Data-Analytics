@@ -28,23 +28,46 @@
 
 ## 4. 개발 환경 구성
 
+- **ElasticSearch/Kibana 7.11.1 설치**: GPG키 및 저장소 추가 -> 패키지 목록 업데이트 및 설치
+
+![image](https://github.com/user-attachments/assets/b5973e1b-5705-43bf-9e2b-b0c215ea9bab)
+![image](https://github.com/user-attachments/assets/6b5478de-c84a-400f-a1a8-234d641e9e6b)
+
+
+- **ElasticSearch/Kibana 네트워크 설정**: 포트 9200/5601사용 -> network.host: 0.0.0.0
+
+![image](https://github.com/user-attachments/assets/76f35525-9028-4b03-91c0-9e1a3707225f)
+![image](https://github.com/user-attachments/assets/9cbe1c7e-5c06-4d2e-a747-18d9a25fc618)
+
+
+- **ElasticSearch vm.max_map_count 값 수정/파일 권한 확인 및 설정**
+
+![image](https://github.com/user-attachments/assets/a0292464-00fc-4c03-ac06-e24ba4019c35)
+![image](https://github.com/user-attachments/assets/f317ee73-172f-4c62-af84-98cb4dfe4437)
+
+- **서비스 활성화 및 시작**
+
+![image](https://github.com/user-attachments/assets/4bd5ead3-c295-4423-827d-504ab37a6267)
+![image](https://github.com/user-attachments/assets/85224540-2dd2-4828-9628-5a486a2c8175)
+
+- **포트 포워딩**
+
+![image](https://github.com/user-attachments/assets/5a4311e4-6eb9-4300-ab95-bc8ee86b4ba3)
+
 ## 5. 데이터 시각화
 - **연령대별 총 사용 금액 및 신용/체크카드 사용 금액**: 각 연령별 사용 금액분석
 
-![image](https://github.com/user-attachments/assets/a927870f-4656-499e-aebc-10e4ab618d60)
+![image](https://github.com/user-attachments/assets/fe56b0ee-6f2f-40ca-87c7-761b2a45a6ef)
 
 
 - **연령대별 선호 분야**: 각 연령대에 맞춘 카드 사용 패턴 분석
 
-![image](https://github.com/user-attachments/assets/6d987a86-19c6-4186-860f-fdfd324fd511)
-
+![image](https://github.com/user-attachments/assets/f68e147a-d441-4e4b-a963-abb9ac00d6dc)
 
 
 - **라이프 스테이지별 사용 금액**: 특정 라이프 스테이지에 인기 있는 카테고리 제안
 
 ![image](https://github.com/user-attachments/assets/a4806371-3675-4022-a077-adde942cd24f)
-
-
 
 
 ## 인사이트 도출
