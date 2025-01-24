@@ -75,7 +75,7 @@
 ![image](https://github.com/user-attachments/assets/f68e147a-d441-4e4b-a963-abb9ac00d6dc)
 
 
-- **라이프 스테이지별 사용 금액**: 특정 라이프 스테이지에 인기 있는 카테고리 제안
+- **라이프 스테이지별 사용 금액**: 특정 라이프 스테이지에 인기 있는 카테고리 분석
 
 ![image](https://github.com/user-attachments/assets/a4806371-3675-4022-a077-adde942cd24f)
 
